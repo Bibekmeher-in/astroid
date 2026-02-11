@@ -1,0 +1,9 @@
+{
+    "short_name": "Cosmic",
+    "name": "Cosmic Watch",
+    "icons": [],
+    "start_url": ".",
+    "display": "standalone",
+    "theme_color": "#0f0f23",
+    "background_color": "#ffffff"
+}
